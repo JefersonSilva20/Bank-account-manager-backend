@@ -1,0 +1,1 @@
+INSERT INTO persons(name, cpf, born_date) VALUES ('Adam','1234567890-0','1990/01/17 14:37:01');

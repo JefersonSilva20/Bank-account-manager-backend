@@ -1,0 +1,1 @@
+INSERT INTO public.transactions(id_account, value, data_transaction)VALUES ( 1, 1000.00, '2013/06/20 11:50:49');
